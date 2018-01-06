@@ -10,29 +10,3 @@ h2 span {
     background:#fff; 
     padding:0 10px; 
 }
-
-.circle {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  font-size: 50px;
-  color: #fff;
-  line-height: 100px;
-  text-align: center;
-  background: #000
-}
-
-.caption {
-        width:50%;
-        bottom: .01rem;
-        position: absolute;
-        background:#000;
-        background: -webkit-linear-gradient(bottom, #fff 40%, rgba(0, 0, 0, 0) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
-        background: -moz-linear-gradient(bottom, #fff 40%, rgba(0, 0, 0, 0) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
-        background: -o-linear-gradient(bottom, #fff 40%, rgba(0, 0, 0, 0) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
-        background: linear-gradient(to top, #fff 40%, rgba(0, 0, 0, 0) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
-    }
-
-.caption p {
-        -webkit-font-smoothing: antialiased;
-    }
